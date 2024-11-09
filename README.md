@@ -21,4 +21,4 @@
 
 ## 泛微OA
 
-- [泛微云桥e-Bridge addResume 任意文件上传漏洞分析](./泛微OA/泛微云桥e-Bridge addResume 任意文件上传漏洞分析.md)
+- [泛微云桥e-Bridge-addResume任意文件上传漏洞分析](./泛微OA/泛微云桥e-Bridge-addResume任意文件上传漏洞分析.md)
